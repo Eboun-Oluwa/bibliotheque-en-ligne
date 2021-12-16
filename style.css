@@ -1,0 +1,29 @@
+li
+{
+    display: inline-block;
+    /*
+    border: 0px solid black;
+    background-color: yellowgreen;*/
+    margin-left: 50px;
+}
+a
+{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    font-style: italic;
+}
+:hover
+{
+    color: yellow;
+}
+body
+{
+    background-color: violet;
+}
+.un
+{
+    float: right;
+    margin-right: 40px;
+    margin-top: 60px; 
+}
